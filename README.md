@@ -14,6 +14,7 @@ I had to click the plus sign to clone my respository.
     Challenging myself to create a new dish or learning new technology has always been apart of my personality. 
     
 ### Websites I recommend 
-      - [Food Network] (https://www.foodnetwork.com/fn-dish) 
-      - [Restaurant] (https://restaurant.org/education-and-resources/learning-center/food-nutrition/food-and-beverage-trends/)
+      - [Food Network] (https://www.foodnetwork.com/fn-dish) Here i find the latest trends of foods and new recipes to consider
+      
+      - [Restaurant] (https://restaurant.org/education-and-resources/learning-center/food-nutrition/food-and-beverage-trends/) - Here is another website that i use to gather food industry news 
       
